@@ -3,4 +3,7 @@
  1-) Draw a pyramid 
  2-)Draw a star  
  3-)Compute the Fibonacci numbers.
+ 
+ 
+ 
 ![foto](https://user-images.githubusercontent.com/92175999/153766270-7f83f63a-9e29-4c8f-a075-8974ba617230.png)
